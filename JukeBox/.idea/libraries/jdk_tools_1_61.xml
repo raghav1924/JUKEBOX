@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jdk.tools-1.61">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/Compressed/jdk.tools-1.6.jar!/" />
+    </SOURCES>
+    <jarDirectory url="jar://$USER_HOME$/Downloads/Compressed/jdk.tools-1.6.jar!/" recursive="false" type="SOURCES" />
+  </library>
+</component>
